@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "lily",
+      "last_name": "A",
+      "email": "nik@gmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "ted",
+      "last_name": "mosby",
+      "email": "tdawg@gmail.com"
+    },
+    {
+      "id": 3,
+      "first_name": "barney",
+      "last_name": "stinson",
+      "email": "BS@gmail.com"
+    },
+    {
+      "id": 4,
+      "first_name": "robin",
+      "last_name": "s",
+      "email": "RS@gmail.com"
+    },
+    {
+      "id": 5,
+      "first_name": "mashal",
+      "last_name": "A",
+      "email": "MA@gmail.com"
+    },
+    {
+      "id": 0.1582659922749814,
+      "first_name": "sagar",
+      "last_name": "chhatbar",
+      "email": "sagar.chhatbar25@gmail.com"
+    }
+  ]
+}
